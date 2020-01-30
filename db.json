@@ -17,12 +17,12 @@
     seleccionado: false
   },
   {
-    id: 3,
-    fecha: "17/01/2020",
-    documento: "FACTURA DE PAGO",
-    serie: "F001",
-    numero: "00000003",
-    seleccionado: false
+    "id": 3,
+    "fecha": "17/01/2020",
+    "documento": "FACTURA DE PAGO",
+    "serie": "F001",
+    "numero": "00000003",
+    "seleccionado": false
   }
 ],
   "profile": {
