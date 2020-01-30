@@ -1,20 +1,20 @@
 {
   "datos" : [
   {
-    id: 1,
-    fecha: "16/01/2020",
-    documento: "BOLETA DE PAGO",
-    serie: "B001",
-    numero: "00000001",
-    seleccionado: false
+    "id": 1,
+    "fecha": "16/01/2020",
+    "documento": "BOLETA DE PAGO",
+    "serie": "B001",
+    "numero": "00000001",
+    "seleccionado": false
   },
   {
-    id: 2,
-    fecha: "18/01/2020",
-    documento: "BOLETA DE PAGO",
-    serie: "B002",
-    numero: "00000002",
-    seleccionado: false
+    "id": 2,
+    "fecha": "18/01/2020",
+    "documento": "BOLETA DE PAGO",
+    "serie": "B002",
+    "numero": "00000002",
+    "seleccionado": false
   },
   {
     "id": 3,
